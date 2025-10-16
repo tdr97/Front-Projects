@@ -3,4 +3,4 @@
 
 *Check The Videos For a Quick Review 
 
-i didn't remove any comments so you can see the process, most of them are basicly the old/wrong methods that got replaced by the new ones 
+i didn't remove any of The comments so you can see the process, most of them are basicly the old/wrong methods that got replaced by the new ones 
